@@ -2,8 +2,8 @@
 
 Author: [Stan Wan](https://github.com/stanzixinwan)  
 Instructor: [Professor Paul Miller](https://people.brandeis.edu/~pmiller/)  
-Course: NBIO 136 - Computational Neuronscience  
-Institution [Brandeis University](https://www.brandeis.edu/)  
+Course: NBIO 136  
+Institution: [Brandeis University](https://www.brandeis.edu/)  
 
 ## Abstract
 Investigated how variations in the maximal sodium conductance (ḡₙₐ) modulate the mean dendritic calcium concentration in the two‐compartment Pinsky–Rinzel burster. Somatic current injection (100 pA) and soma–dendrite coupling (50 nS) evoke bursting, and I quantify calcium entry as ḡₙₐ is swept from 0 to 3000 nS. Observed a rise‐peak‐decline relationship, suggesting an optimal range of sodium conductance for calcium homeostasis.
