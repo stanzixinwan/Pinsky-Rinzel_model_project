@@ -10,12 +10,8 @@ Investigated how variations in the maximal sodium conductance (ḡₙₐ) modula
 ## [View codes here](final_project.py)
 ## [Research Project Report](Stan_Wan_Final_Project.pdf)
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Methods](#methods)
-- [Results](#results)
-- [Conclusion](#conclusion)
-- [Reference](#reference)
+Main Text
+---
 
 ## 1. Introduction
 - Background: Role of sodium and calcium channels in neuronal excitability and homeostatic regulation.
