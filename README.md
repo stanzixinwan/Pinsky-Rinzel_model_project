@@ -2,7 +2,7 @@
 
 Author: [Stan Wan](https://github.com/stanzixinwan)  
 Instructor: [Professor Paul Miller](https://people.brandeis.edu/~pmiller/)  
-Course: NBIO 136 - Computational Neuronscience
+Course: NBIO 136 - Computational Neuronscience  
 Institution [Brandeis University](https://www.brandeis.edu/)  
 
 ## Abstract
