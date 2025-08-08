@@ -7,6 +7,19 @@ NBIO 136
 ## Abstract
 Investigated how variations in the maximal sodium conductance (ḡₙₐ) modulate the mean dendritic calcium concentration in the two‐compartment Pinsky–Rinzel burster. Somatic current injection (100 pA) and soma–dendrite coupling (50 nS) evoke bursting, and I quantify calcium entry as ḡₙₐ is swept from 0 to 3000 nS. Observed a rise‐peak‐decline relationship, suggesting an optimal range of sodium conductance for calcium homeostasis.
 
+## Index
+- [View codes here](final_project.py)
+- [Research Project Report](Stan_Wan_Final_Project.pdf)
+---
+- [Introduction](#introduction)
+- [Methods](#methods)
+- [Results](#results)
+- [Conclusion](#conclusion)
+- [Reference](#reference)
+
+Main Text
+---
+
 ## 1. Introduction
 - Background: Role of sodium and calcium channels in neuronal excitability and homeostatic regulation.
 - Model choice: The Pinsky–Rinzel two‐compartment model is appropriate for studying dendritic Ca dynamics. 
