@@ -3,7 +3,7 @@
 Stan Wan
 Professor Paul Miller
 NBIO 136
----
+
 ## Abstract
 Investigated how variations in the maximal sodium conductance (ḡₙₐ) modulate the mean dendritic calcium concentration in the two‐compartment Pinsky–Rinzel burster. Somatic current injection (100 pA) and soma–dendrite coupling (50 nS) evoke bursting, and I quantify calcium entry as ḡₙₐ is swept from 0 to 3000 nS. Observed a rise‐peak‐decline relationship, suggesting an optimal range of sodium conductance for calcium homeostasis.
 
