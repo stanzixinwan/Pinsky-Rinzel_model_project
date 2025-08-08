@@ -17,9 +17,6 @@ Investigated how variations in the maximal sodium conductance (ḡₙₐ) modula
 - [Conclusion](#conclusion)
 - [Reference](#reference)
 
-Main Text
----
-
 ## 1. Introduction
 - Background: Role of sodium and calcium channels in neuronal excitability and homeostatic regulation.
 - Model choice: The Pinsky–Rinzel two‐compartment model is appropriate for studying dendritic Ca dynamics. 
