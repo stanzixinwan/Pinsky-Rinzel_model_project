@@ -19,12 +19,13 @@ Investigated how variations in the maximal sodium conductance (ḡₙₐ) modula
 - Cite gating functions and calcium‐handling (τ_Ca, conversion factor).
 
 ### 2.2. Parameter Values
-
-|**Parameter**|**Symbol**|**Value(s)**|**Units**|**Notes**|
-|Coupling|G_Link|10,50, 100|nS|soma ↔ dendrite link|
-|Somatic drive|Iapp|0, 50, 100|pA|constant injection|
-|Time step|dt|2 µs|s|Euler/RK4 integration|
-|Simulation time|2 s|s|discard first 0.5 s|
+| Col 1         | Col 2    | Col 3      | Col 4   | Col 5               |
+|-------------  |----------|------------|---------|---------------------|
+|**Parameter**  |**Symbol**|**Value(s)**|**Units**|**Notes**            |
+|Coupling       |G_Link    |10,50, 100  |nS       |soma ↔ dendrite link |
+|Somatic drive  |Iapp      |0, 50, 100  |pA       |constant injection   |
+|Time step      |dt        |2 µs        |s        |Euler/RK4 integration|
+|Simulation time|T         |2 s         |s        |discard first 0.5 s  |
 
  *Other parameters simulated are the same from textbook, tutorial 4.3*
 
