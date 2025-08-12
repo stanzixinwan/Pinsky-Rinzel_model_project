@@ -112,7 +112,7 @@ The relationship between sodium conductance and calcium influx demonstrated can 
 ---
 
 ## References
-1.	Textbook, Chapter 4 “Conductance-based models”.
+1.	**Miller, P. (2018)**. *An introductory course in Computational Neuroscience*, Chapter 4. https://katalog.ub.uni-heidelberg.de/titel/68337355
 
 --- 
 
